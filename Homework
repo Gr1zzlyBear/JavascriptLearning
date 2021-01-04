@@ -20,3 +20,5 @@ var numbersToAddTo = [33, 44, 22, 11]
 
 var newBaseNumber = baseNumber.Tostring();
 var newNumbersTo= numbersToAddTo.Tostring();
+// I was thinking of concatinating this but all I find are; it would only add '77' to it as new element
+// I am very confused
